@@ -1,0 +1,2 @@
+import { AwsCredentialIdentity } from "../../../../../../@smithy_types@4.12.0/node_modules/@smithy/types/dist-types/identity/awsCredentialIdentity.js";
+import "../../../../../../@smithy_types@4.12.0/node_modules/@smithy/types/dist-types/index.js";
